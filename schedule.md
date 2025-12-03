@@ -274,6 +274,7 @@ References are to Burden and Faires, 10th edition, unless otherwise noted
   - Debrief from lab
   - Ch 9.4, Householder reflections, reduction to tridiagonal or upper Hessenberg
   - Ch 9.5, QR iteration for eigenvalues
+    - Both these sections are in the notes [Ch9_HouseholderHessenberg.pdf](Notes/Ch9_HouseholderHessenberg.pdf)
   - ~~makeup / review session~~
   - ~~Time-permitting, we may cover Ch 7.6 Conjugate Gradient method~~
 
